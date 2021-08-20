@@ -7,7 +7,10 @@
     <li>Testes com Google Chart Gauge;</li>
   </ul>
 </details>
+
+<br>
 <hr>
+<br>
 
 ## Project setup
 ```
