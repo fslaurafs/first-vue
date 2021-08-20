@@ -5,6 +5,8 @@
   <ul>
     <li>Testes com Google Chart Data;</li>
     <li>Testes com Google Chart Gauge;</li>
+    <li>Eventos de clique;</li>
+    <li>Eventos de mudança de cores.</li>
   </ul>
 </details>
 
