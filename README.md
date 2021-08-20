@@ -1,4 +1,4 @@
-<h1 aligh='center'>First Vue.js Project</h1>
+<h1 align='center'>First Vue.js Project</h1>
 <p>Primeiro projeto de testes com Vue.js e Mqtt.</p>
 <details>
   <summary><strong>Observações:</strong></summary>
